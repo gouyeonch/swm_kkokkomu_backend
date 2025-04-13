@@ -82,6 +82,12 @@
 
 <br>
 
+## 💽 Infra
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/c5ac8e08-81be-48c5-acbe-b4bf031c144c" />
+
+
+<br>
+
 ## 💌 공식 SNS
 - 공식 유튜브: https://www.youtube.com/@NEWSnack_kkm
 
